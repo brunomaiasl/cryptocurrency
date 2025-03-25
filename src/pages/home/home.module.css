@@ -39,6 +39,9 @@ table caption {
 
 th{
     color: #FFF;
+    background-color: #333;
+    position: sticky;
+    top: 0;
 }
 
 .tr{
@@ -67,7 +70,6 @@ table td{
 }
 
 .tdLabel{
-    font-weight: bold;
     font-size: 18px;
     color: #FFF;
 }
