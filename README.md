@@ -1,4 +1,4 @@
-🪙 CryptoCurrency – Monitoramento de Criptomoedas em Tempo Real
+🪙 <a href="https://crypptocurrency.netlify.app/" target="_blank">CryptoCurrency</a>  – Monitoramento de Criptomoedas em Tempo Real
 
 💡 Sobre o projeto<br/>
 O DevCurrency é uma aplicação web desenvolvida em React.js que permite aos usuários verificar em tempo real o valor das criptomoedas através da API CoinCap. O projeto possui uma estrutura organizada em páginas e componentes reutilizáveis para melhorar a experiência do usuário e facilitar a manutenção do código.<br/>
@@ -21,3 +21,6 @@ O DevCurrency é uma aplicação web desenvolvida em React.js que permite aos us
 	•	Componentes:<br/>
 🎨 Header – Barra de navegação<br/>
 🏗️ Layout – Estrutura base do projeto<br/>
+
+Link do Deploy:<br>
+<a href="https://crypptocurrency.netlify.app/" target="_blank">CryptoCurrency</a>
